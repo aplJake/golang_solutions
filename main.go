@@ -8,4 +8,6 @@ func main()  {
 	solutions.ShowTwoOldestAges(testAges)
 
 	solutions.CountBits(12354434)
+
+	solutions.ToWeirdCase("HelloWorld")
 }
